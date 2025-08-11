@@ -21,8 +21,8 @@ Challenges: One of the main challenges were Docker. I was not that familiar with
 Another challenge was that the code had a lot of buttons and features but in fact, a lot of them were not really implemented in the code. This had the effect of bloating the code and making it harder to understand what were the important pieces of code that I needed to pay attention to.
 I also struggled with making the AI use the tools the correct way.
 ## Evaluation
-*Accuracy: How accurate was the information the AI gave to the user
-*Locating bugs: how well was the AI able to identify the problem
+*Accuracy: How accurate was the information the AI gave to the user  
+*Locating bugs: how well was the AI able to identify the problem  
 *Fixing bugs: how well was the AI able to fix the problem(after it had found it)
 
 
